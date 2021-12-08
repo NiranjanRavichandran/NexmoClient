@@ -1,2 +1,2 @@
-# NexmoClient-SPM
+# NexmoClient
 SPM support for Nexmo Client
